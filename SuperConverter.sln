@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperConverter", "SuperConverter\SuperConverter.csproj", "{ADEF6B0A-9C64-44DC-8419-3F12964EC674}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperConverterDemo", "SuperConverterDemo\SuperConverterDemo.csproj", "{3FA69649-4380-4435-9B32-402507D989E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperConverter", "SuperConverter\SuperConverter.csproj", "{F3440DD8-7AA6-4F5D-892B-85649D442FCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ADEF6B0A-9C64-44DC-8419-3F12964EC674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ADEF6B0A-9C64-44DC-8419-3F12964EC674}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ADEF6B0A-9C64-44DC-8419-3F12964EC674}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ADEF6B0A-9C64-44DC-8419-3F12964EC674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA69649-4380-4435-9B32-402507D989E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA69649-4380-4435-9B32-402507D989E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA69649-4380-4435-9B32-402507D989E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA69649-4380-4435-9B32-402507D989E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3440DD8-7AA6-4F5D-892B-85649D442FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3440DD8-7AA6-4F5D-892B-85649D442FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3440DD8-7AA6-4F5D-892B-85649D442FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3440DD8-7AA6-4F5D-892B-85649D442FCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

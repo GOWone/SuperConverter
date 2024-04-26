@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SuperConverter.Properties
+namespace SuperConverterDemo.Properties
 {
 
 
