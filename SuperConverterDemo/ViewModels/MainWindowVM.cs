@@ -9,6 +9,6 @@ namespace SuperConverterDemo.ViewModels
 {
     internal class MainWindowVM
     {
-        DataTableBuilder  builder = new DataTableBuilder();
+
     }
 }

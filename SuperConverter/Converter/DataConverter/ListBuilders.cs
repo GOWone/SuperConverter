@@ -1,15 +1,15 @@
 ﻿/*********************************************************************
  * Copyright(c) YaMoStudio All Rights Reserved.
  * 开发者：YaMoStudio
- * 命名空间：SuperConverter.SuperLinker
- * 文件名：ADOLinker
+ * 命名空间：SuperConverter.Converter.DataConverter
+ * 文件名：ListBuilders
  * 版本号：V1.0.0.0
  * 创建时间：2024/4/26 11:16:21
  ******************************************************/
 
-namespace SuperConverter.SuperLinker
+namespace SuperConverter.Converter.DataConverter
 {
-    internal class ADOLinker
+    public class ListBuilders
     {
     }
 }
