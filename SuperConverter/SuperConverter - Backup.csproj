@@ -11,7 +11,6 @@
     <LangVersion>preview</LangVersion>
     <Authors>YaMoStudio</Authors>
     <Description>SuperConverter is a tool for converting between multiple data types and file formats. It supports DataTable, Excel, Json, Csv and SQL objectization, etc.</Description>
-    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
